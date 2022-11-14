@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 select_opt_c="[c++] install robot component developer"
 select_opt_c="$select_opt_c\n[c++] install ROS expansion package"
